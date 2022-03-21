@@ -10,9 +10,7 @@ Git Repository: <https://github.com/Felix-gto/diceroll>
 
 ---
 
----
-
-Access Website: <https://felix-gto.github.io/diceroll/>
+Check out the Website: <https://felix-gto.github.io/diceroll/>
 
 ---
 
